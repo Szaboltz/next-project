@@ -14,7 +14,7 @@ export default function Home() {
       </div>
       <div className="flex gap-4 items-center p-6 bg-neutral-800">
         <Sidebar/>
-        <Texto title="Home"/>
+        <Texto title="About"/>
       </div>
       <Footer/>
     </main>
